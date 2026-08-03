@@ -4,5 +4,6 @@ public class WelcomeToJava {
         System.out.println("Ialready know how to build programming logic.");
         System.out.println("Now I am learning how to express that logic using java.");
         System.out.println("Now i know how to use git  and github.");
+        System.out.println("my name is Sneha.");
     }
 }
