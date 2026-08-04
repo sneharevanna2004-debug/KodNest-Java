@@ -1,5 +1,5 @@
-package track.M02.T01.ST01.P01;
-public class learnerProfile {
+public class LearningProfile{
+    
     public static void main(String[] args) {
         String learnerName = "Salman";
         int dailyPracticeHours = 8;
@@ -7,8 +7,6 @@ public class learnerProfile {
         System.out.println("Name: " + learnerName);
         System.out.println("Daily Practice: " + dailyPracticeHours + " Hours");
     }
-}
-
- 
+} 
     
 
