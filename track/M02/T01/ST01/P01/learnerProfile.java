@@ -1,5 +1,4 @@
 package track.M02.T01.ST01.P01;
-
 public class learnerProfile {
     public static void main(String[] args) {
         String learnerName = "Salman";
