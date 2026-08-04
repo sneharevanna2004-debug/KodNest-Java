@@ -6,10 +6,10 @@ public class Number {
         if(num>0){
             System.out.println("Positive");
         }
-        else{
+        else if(num<0){
             System.out.println("Negative");
         }
-        if(num==0){
+        else{
             System.out.println("Zero");
         }
     }
