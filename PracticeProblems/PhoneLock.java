@@ -12,11 +12,18 @@ class Phone {
         System.out.println("Phone unlocked using face");
     }
 }
+class pattern{
+
+}
+class face{
+
+}
+class fingerPrint{
+
+}
 
 public class PhoneLock {
-
-    public static void main(String[] args) {
-
+     public static void main(String[] args) {
         Phone p = new Phone();
 
         p.unlock("Sneha");
