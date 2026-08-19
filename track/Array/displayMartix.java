@@ -1,5 +1,5 @@
-package Array;
 
+package Array;
 
 import java.util.Scanner;
 
